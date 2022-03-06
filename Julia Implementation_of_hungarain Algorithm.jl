@@ -5,6 +5,7 @@
    "metadata": {},
    "source": [
     "VSE Jonah Heyl hungarain algorithim"
+  "This algorithim is based off other implementations found below"
    ]
   },
   {
