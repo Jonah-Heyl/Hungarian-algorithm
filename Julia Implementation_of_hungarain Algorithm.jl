@@ -395,31 +395,7 @@
      "traceback": [
       "InterruptException:",
       "",
-      "Stacktrace:",
-      "  [1] Array",
-      "    @ ./boot.jl:457 [inlined]",
-      "  [2] Array",
-      "    @ ./boot.jl:466 [inlined]",
-      "  [3] similar",
-      "    @ ./array.jl:378 [inlined]",
-      "  [4] similar",
-      "    @ ./abstractarray.jl:783 [inlined]",
-      "  [5] _unsafe_getindex",
-      "    @ ./multidimensional.jl:851 [inlined]",
-      "  [6] _getindex",
-      "    @ ./multidimensional.jl:839 [inlined]",
-      "  [7] getindex",
-      "    @ ./abstractarray.jl:1218 [inlined]",
-      "  [8] min_zero_row(zero_mat::Matrix{Any}, mark_zero::Vector{Any})",
-      "    @ Main ./In[473]:7",
-      "  [9] mark_matrix(mat::Matrix{Int64})",
-      "    @ Main ./In[419]:18",
-      " [10] hungarian_algorithm(mat::Matrix{Int64})",
-      "    @ Main ./In[476]:15",
-      " [11] eval",
-      "    @ ./boot.jl:373 [inlined]",
-      " [12] include_string(mapexpr::typeof(REPL.softscope), mod::Module, code::String, filename::String)",
-      "    @ Base ./loading.jl:1196"
+      
      ]
     }
    ],
